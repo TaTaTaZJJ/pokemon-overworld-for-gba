@@ -1,5 +1,7 @@
 # Pokemon Overworld For GBA
-A collection of pokemon overworld sprite for GBA compatibility, with 9 frame of movement each.
+A collection of pokemon overworld sprite for GBA compatibility, with standard of 9 movement frame.
+I generate them with script, so most of them require double-check and might need a fix.
+I will update them slowly, so feel free to contribute.
 
 Please check projects for more details.
 
